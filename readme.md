@@ -4,6 +4,9 @@ My name is Paul.
 
 I've been interested in frontend development and design for about 4 years
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=paulhorstmann)
+
+
 ## Projects
 
 ### Jetbrains Academy Projects
