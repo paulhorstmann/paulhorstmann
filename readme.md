@@ -1,10 +1,10 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗧𝗵𝗲𝗿𝗲 👋
 
-My name is Paul
+My name is Paul.
 
 I've been interested in frontend development and design for about 4 years
 
----
+## Projects
 
 ### Jetbrains Academy Projects
 | Project         | Repositorie                                     |
