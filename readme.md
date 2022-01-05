@@ -2,6 +2,10 @@
 
 My name is Paul
 
+I've been interested in frontend development and design for about 4 years
+
+---
+
 ### Jetbrains Academy Projects
 | Project         | Repositorie                                     |
 | :-------------- | :---------------------------------------------- |
